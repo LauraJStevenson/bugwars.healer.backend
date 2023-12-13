@@ -5,8 +5,8 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class Country {
+public class BugDataTemporary {
     private String name;
-    private String capital;
-    private int population;
+    private String color;
+    private int id;
 }
