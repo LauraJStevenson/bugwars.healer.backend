@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RenderDeployProcess {
+public class BugwarsHealerBackend {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RenderDeployProcess.class, args);
+		SpringApplication.run(BugwarsHealerBackend.class, args);
 	}
 
 }
