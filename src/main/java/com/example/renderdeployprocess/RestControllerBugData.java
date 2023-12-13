@@ -7,7 +7,7 @@ import java.util.List;
 
 
 @RestController
-@RequestMapping("api/v1/countries")
+@RequestMapping("api/v1/bug-data")
 
 public class RestControllerBugData {
     private static final List<BugDataTemporary> BUG_DATA_TEMPORARIES = List.of(
