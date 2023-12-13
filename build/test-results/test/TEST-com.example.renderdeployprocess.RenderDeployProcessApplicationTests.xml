@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.renderdeployprocess.RenderDeployProcessApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-13T18:27:29" hostname="DESKTOP-JS4CGAT" time="0.838">
+<testsuite name="com.example.renderdeployprocess.RenderDeployProcessApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-13T19:27:59" hostname="DESKTOP-JS4CGAT" time="0.772">
   <properties/>
-  <testcase name="contextLoads()" classname="com.example.renderdeployprocess.RenderDeployProcessApplicationTests" time="0.838"/>
-  <system-out><![CDATA[11:27:27.000 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.renderdeployprocess.RenderDeployProcessApplicationTests]: RenderDeployProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-11:27:27.134 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.renderdeployprocess.BugwarsHealerBackend for test class com.example.renderdeployprocess.RenderDeployProcessApplicationTests
+  <testcase name="contextLoads()" classname="com.example.renderdeployprocess.RenderDeployProcessApplicationTests" time="0.772"/>
+  <system-out><![CDATA[12:27:58.025 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.renderdeployprocess.RenderDeployProcessApplicationTests]: RenderDeployProcessApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+12:27:58.152 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.renderdeployprocess.BugwarsHealerBackend for test class com.example.renderdeployprocess.RenderDeployProcessApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -13,9 +13,9 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v3.2.0)
 
-2023-12-13T11:27:27.597-07:00  INFO 23136 --- [    Test worker] .e.r.RenderDeployProcessApplicationTests : Starting RenderDeployProcessApplicationTests using Java 17.0.9 with PID 23136 (started by Laura in C:\Users\Laura\Documents\Laura Stevenson Portfolio\bugwars.healer.backend)
-2023-12-13T11:27:27.600-07:00  INFO 23136 --- [    Test worker] .e.r.RenderDeployProcessApplicationTests : No active profile set, falling back to 1 default profile: "default"
-2023-12-13T11:27:28.990-07:00  INFO 23136 --- [    Test worker] .e.r.RenderDeployProcessApplicationTests : Started RenderDeployProcessApplicationTests in 1.66 seconds (process running for 2.98)
+2023-12-13T12:27:58.569-07:00  INFO 7352 --- [    Test worker] .e.r.RenderDeployProcessApplicationTests : Starting RenderDeployProcessApplicationTests using Java 17.0.9 with PID 7352 (started by Laura in C:\Users\Laura\Documents\Laura Stevenson Portfolio\bugwars.healer.backend)
+2023-12-13T12:27:58.570-07:00  INFO 7352 --- [    Test worker] .e.r.RenderDeployProcessApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-12-13T12:27:59.781-07:00  INFO 7352 --- [    Test worker] .e.r.RenderDeployProcessApplicationTests : Started RenderDeployProcessApplicationTests in 1.446 seconds (process running for 2.658)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
